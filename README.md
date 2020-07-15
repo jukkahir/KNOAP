@@ -1,0 +1,1 @@
+Example codes for creating variable for incident symptomatic radiographic knee osteoarthritis in OAI data for the KNOAP2020 challenge.
